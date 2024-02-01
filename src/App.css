@@ -1,0 +1,38 @@
+.list-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  width: 100%;
+  padding-left: 100px;
+}
+
+.list-item {
+  list-style: none;
+  width: 25%;
+  margin-bottom: 10px;
+}
+
+.movie-item-container {
+  background-color: #fff1f1;
+  padding-right: 30px;
+}
+
+.content-container-inner {
+  padding-left: 50px;
+  padding-top: 20px;
+
+}
+
+.content-container-inner p {
+  font-size: 18px;
+  font-weight: 550;
+}
+
+.heading {
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  height: 80px;
+  padding-top: 10px;
+}
